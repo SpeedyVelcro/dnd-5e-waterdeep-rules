@@ -18,9 +18,8 @@ When creating characters or levelling up you are allowed to use races, classes, 
 - Player's Handbook
 - Xanathar's Guide to Everything
 - Tasha's Cauldron of Everything
-- Mordenkainen's Tome of Foes
-- Volo's Guide to Monsters
 - Monsters of the Multiverse
+- Fizban's Treasury of Dragons
 - Sword Coast Adventurer's Guide
 
 If a race, class, subclass, feat or spell appears in multiple books, you may only use the most recently published version.
