@@ -34,33 +34,45 @@ Characters should initially be made on the official 5e character sheet, as this 
 
 # Variant Rules
 We are using several variant rules. **Particularly note the following, which will have a major impact on how the game plays**:
+- Playing on a Grid (PHB pg. 192)
 - More Difficult Identification (DMG pg. 136)
 - Flanking (DMG pg. 251)
 
-We are also using the following player-facing variant rules:
+We are using these variant rules with regards to spellcasting:
 - Identifying a Spell (DMG pg. 271)
 - Perceiving a Caster at Work (XGtE pg. 85)
 - Invalid Spell Targets (XGtE pg. 85)
 
-There are also several rules that I may use to provide you with extra options, however these are situational:
+We are using these variant rules to provide extra options
 - Extra Downtime Activities (XGtE pg. 125), situational availability
 - Tying Knots (XGtE pg. 78) but using a **Dexterity (Sleight of Hand)** check instead, for consistency as we are not using "Variant: Skills with Different Abilities"
 - Tool Proficiencies (XGtE pg. 78)
 - Disarm Action (DMG pg. 271)
 
 # House Rules
+
+## Levelling
 - If, when levelling up, you choose average hit die instead of rolling, you **round down** instead of rounding up.
 - We are using experience levelling.
     - You won't get experience if you are absent. This is because the XP curve already acts as a natural catch-up mechanism for lower-level players.
     - I may intervene with free XP or multipliers in the event that players are absent enough that they drift more than a couple levels apart, so you shouldn't have to worry about falling behind.
 - Characters will only level up on a long rest. Characters can level up multiple times on the same long rest if they have the experience.
+
+## Weight
 - Small items that aren't given a set weight - like potions - are treated as weighing **0.1 lb**. Money will weigh **1 lb per 50 coins** (Foundry VTT already calculates money weight for you). Lenience is given for handwaving the weight of small amounts of light items if you are using a paper character sheet.
+- Coins can only be exchanged for coins of different values by exchange with a willing NPC.
+
+## Unconcious Creatures
 - A creature may end their movement in the same tile as an unconcious creature.
     - Performing a melee attack against an unconcious creature sharing a space with a concious creature provokes an opportunity attack from the concious creature.
     - Administering first aid to an unconcious creature sharing a space with a concious creature provokes an opportunity attack from the concious creature.
-    - Interacting with an unconcious creatures haring a space with a concious creature in any way that requires touching the unconcious creature provokes an opportunity attack from the concious creature.
+    - Interacting with an unconcious creatures sharing a space with a concious creature in any way that requires touching the unconcious creature provokes an opportunity attack from the concious creature.
 
-# Rulings
+## Disarm
+- When you use the Disarm action (DMG pg. 271), your attack roll is instead contested by the target's melee attack roll.
+
+## Shadow Blade
+- For the purposes of using it as a material component in spells only, the sword created by the Shadow Blade spell is considered to have a value of 1 sp.
 
 # Rule Clarifications
 These are RAW, not variant or house rules, but they bear mentioning here just to make sure everyone's on the same page
