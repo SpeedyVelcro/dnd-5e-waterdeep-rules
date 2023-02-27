@@ -69,7 +69,7 @@ We are using these variant rules to provide extra options
     - Interacting with an unconcious creatures sharing a space with a concious creature in any way that requires touching the unconcious creature provokes an opportunity attack from the concious creature.
 
 ## Disarm
-- When you use the Disarm action (DMG pg. 271), your attack roll is instead contested by the target's melee attack roll.
+- When you use the Disarm action (DMG pg. 271), you first provoke an Opportunity Attack from the target creature. If the Opportunity Attack is successful, the Disarm automatically fails. Otherwise, continue with the Disarm action's contested rolls as normal as laid out on the DMG.
 
 ## Shadow Blade
 - For the purposes of using it as a material component in spells only, the sword created by the Shadow Blade spell is considered to have a value of 1 sp.
