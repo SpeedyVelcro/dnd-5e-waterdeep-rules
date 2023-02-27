@@ -37,6 +37,7 @@ We are using several variant rules. **Particularly note the following, which wil
 - Playing on a Grid (PHB pg. 192)
 - More Difficult Identification (DMG pg. 136)
 - Flanking (DMG pg. 251)
+- Sleep (XGtE pg. 77)
 
 We are using these variant rules with regards to spellcasting:
 - Identifying a Spell (DMG pg. 271)
@@ -72,7 +73,7 @@ We are using these variant rules to provide extra options
 - When you use the Disarm action (DMG pg. 271), you first provoke an Opportunity Attack from the target creature. If the Opportunity Attack is successful, the Disarm automatically fails. Otherwise, continue with the Disarm action's contested rolls as normal as laid out on the DMG.
 
 ## Shadow Blade
-- For the purposes of using it as a material component in spells only, the sword created by the Shadow Blade spell is considered to have a value of 1 sp.
+- For the purpose of using it as a material component in spells and cantrips only, the sword created by the Shadow Blade spell is considered to have a value of 1 sp.
 
 # Rule Clarifications
 These are RAW, not variant or house rules, but they bear mentioning here just to make sure everyone's on the same page
